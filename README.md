@@ -1,5 +1,5 @@
 # Pig_Game
-Pig is a simple dice game.
+* Pig is a simple dice game.
 
 Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold":
 
